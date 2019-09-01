@@ -1,0 +1,25 @@
+.paralax-section {
+background-image: url(/imgs/secure.jpg);
+background-position: top center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+color:azure;
+padding-top: 300px;
+padding-bottom: 300px;
+text-align: center;
+
+}
+
+
+
+.paralax-section-2 {
+    background-image: url(/imgs/workers.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    }
